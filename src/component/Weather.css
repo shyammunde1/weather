@@ -1,0 +1,19 @@
+.city {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detail p {
+  margin: 0;
+}
